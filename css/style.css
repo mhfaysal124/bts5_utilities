@@ -1,0 +1,53 @@
+.tittle{
+    margin: 0 auto;
+    color: firebrick;
+}
+.faysal{
+    background-color: orange;
+    float: left;
+    margin: 5px;
+    padding: 50px;
+    width: 150px;
+    height: 150px;
+}
+.faysal_4{
+    background-color: rgb(129, 124, 115);
+    width: 137px;
+    height: 136px;
+    text-align: center;
+    color: white;
+}
+h1{
+    color: red;
+}
+h2{
+    color: orange;
+}
+.bd-highlight {
+    background-color: rgba(86,61,124,0.15);
+    border: 1px solid rgba(86,61,124,0.15);
+}
+.h_100px{
+    height: 100px;
+}
+.media_object_img{
+    width: 200px;
+}
+.bg_light{
+    background-color: #c2c9ce;
+    padding: 25px;
+}
+.over_flow{
+    max-width: 500px;
+    max-height: 160px;
+}
+.bg_dark{
+    width: 3em;
+    height: 3em;
+    background-color: #212923;
+    border-radius: .25rem
+}
+.bg_light2{
+    height: 250px;
+    background-color: #a8a2a2;
+}
